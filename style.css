@@ -1,0 +1,26 @@
+.jumbotron {
+
+    color: yellow;
+    font-family: lucida Bright;
+    box-shadow: purple;
+background:linear-gradient(yellow,black);
+}
+.display-3{
+    color:rgb(150, 16, 150);
+}
+.container{
+    background:linear-gradient(rgb(160, 12, 160)black);
+    color: yellow;
+}
+.card-body{
+    background:linear-gradient(rgb(160, 21, 160)black);
+    color: yellow;
+    font-family: lucida Bright;
+}
+body {
+    background:black;
+}
+footer {
+    font-family: lucida Bright;
+    font-size: 30px;
+}
